@@ -1,0 +1,19 @@
+{
+    "name" : "Group Course Work 2",
+    "origin" : "*",
+    "short_name": "CourseWork2",
+    "start_url" : "index.html",
+    "methods" :"GET, HEAD, PUT, PATCH, POST, DELETE",
+    "description" : "My Group course work 2",
+    "icons": [
+        {
+            "src" : "images/icon-store-512.png",
+            "sizes": "512X512",
+            "type": "image/png"
+        }
+    ],
+    "background_color" : "#B12A34",
+    "display" : "fullscreen"
+
+
+}
